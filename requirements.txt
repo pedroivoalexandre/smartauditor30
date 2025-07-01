@@ -1,2 +1,11 @@
+# requirements.txt
+#
+# Este arquivo lista as dependências Python de alto nível para o projeto SmartAuditor30.
+# Ele inclui bibliotecas necessárias para a execução dos testes e para a interação
+# com serviços externos, como a API Gemini.
+#
+# Para instalar todas as dependências listadas aqui, use o seguinte comando:
+# pip install -r requirements.txt
+
 pytest
 google-generativeai

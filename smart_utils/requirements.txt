@@ -1,1 +1,10 @@
+# smart_utils/requirements.txt
+#
+# Este arquivo lista as dependências Python específicas para o módulo `smart_utils`.
+# Ele contém bibliotecas essenciais para funcionalidades de utilidade, como o carregamento
+# de variáveis de ambiente a partir de arquivos `.env`.
+#
+# Para instalar as dependências listadas aqui, use o seguinte comando:
+# pip install -r smart_utils/requirements.txt
+
 python-dotenv
