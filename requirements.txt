@@ -7,5 +7,8 @@
 # Para instalar todas as dependências listadas aqui, use o seguinte comando:
 # pip install -r requirements.txt
 
-pytest
-google-generativeai
+# NOTA: As versões exatas das dependências não puderam ser obtidas devido a um erro de cota na busca web.
+# Recomenda-se fixar as versões após a instalação inicial para garantir a reprodutibilidade.
+
+pytest  # Framework de teste para Python, utilizado para executar os testes do projeto.
+google-generativeai  # Biblioteca oficial do Google para interagir com a API Gemini.

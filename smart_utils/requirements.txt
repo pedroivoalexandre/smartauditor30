@@ -7,4 +7,7 @@
 # Para instalar as dependências listadas aqui, use o seguinte comando:
 # pip install -r smart_utils/requirements.txt
 
-python-dotenv
+# NOTA: As versões exatas das dependências não puderam ser obtidas devido a um erro de cota na busca web.
+# Recomenda-se fixar as versões após a instalação inicial para garantir a reprodutibilidade.
+
+python-dotenv  # Biblioteca para carregar variáveis de ambiente de arquivos .env.
