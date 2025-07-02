@@ -18,7 +18,7 @@ class TestSmartAutenticacao:
     - Registro de novos usuários.
     - Validação de tokens de sessão.
     - Tratamento de erros de autenticação.
-    - Segurança (por exemplo, senhas criptografadas).
+    - Segurança (por exemplo, senhas criptografadas).vamos 
     """
 
     @pytest.mark.skip(reason="Testes de autenticação ainda não implementados")
